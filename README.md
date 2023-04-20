@@ -1,10 +1,8 @@
-<img align="right" src="https://i.ibb.co/HBrBTjZ/weirdchamp.gif" />
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=haipham22&show_icons=true&count_private=true&show_icons=true" />
-</p>
+# Hi, I'm Hai Pham <img src="https://i.ibb.co/HBrBTjZ/weirdchamp.gif" />
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haipham22&show_icons=true&locale=en&layout=compact" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&langs_count=8&show_icons=true&locale=en&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=haipham22&show_icons=true&count_private=true&show_icons=true" />
 </p>
 
 <picture>
