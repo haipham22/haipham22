@@ -2,8 +2,8 @@
 
 <p>
   <picture>
-    <source align="left" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" />
-    <source align="left" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&langs_count=8&show_icons=true&locale=en&layout=compact" />
+    <source align="left" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&hide=html&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" />
+    <source align="left" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&hide=html&langs_count=8&show_icons=true&locale=en&layout=compact" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haipham22&langs_count=8&show_icons=true&locale=en&layout=compact" />
   </picture>
 
