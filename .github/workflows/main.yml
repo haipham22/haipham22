@@ -4,7 +4,11 @@ on:
   schedule: # execute every 23 hours
     - cron: "* */23 * * *"
   workflow_dispatch:
-
+  
+  push:
+    branches:
+      - main
+  
 jobs:
   build:
     name: Jobs to update datas
@@ -12,6 +16,8 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
 
